@@ -1,0 +1,6 @@
+﻿l_english:
+ disable_pact:0 "Shut up!"
+ dont_sign_pact:0 "Mute AI"
+ dont_sign_pact_desc:0 ""
+ beg_me:0 "Cancel the mute"
+ beg_me_desc:0 "The oppsite of 'Mute AI'.\n\n§RDon't click both this one and 'Mute AI' in a single day.§!"

@@ -1,0 +1,175 @@
+﻿country_event = {
+	id = no_pact.1
+	title = no_pact.1.t
+	desc = no_pact.1.d
+	picture = GFX_report_event_ast_navy
+
+    hidden = yes
+
+	is_triggered_only = yes
+    trigger = {
+        has_country_flag = sign_pact
+    }
+    option = {
+		name = no_pact.1.a
+        every_other_country = {
+            limit = {
+                NOT = { has_country_flag = no_sign_pact }
+            }
+            set_country_flag = no_sign_pact
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = join_faction
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = offer_join_faction
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = non_aggression_pact
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = join_ally
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = send_exp_force
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = call_allies
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_acceptance
+                id = ROOT
+                target = call_allies
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = military_access
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = docking_rights
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = befriend
+                value = -5000
+            }
+            add_ai_strategy = {
+                type = alliance
+                id = ROOT
+                value = -5000
+            }
+        }
+	}
+}
+
+country_event = {
+	id = no_pact.2
+	title = no_pact.2.t
+	desc = no_pact.2.d
+	picture = GFX_report_event_ast_navy
+
+    hidden = yes
+	is_triggered_only = yes
+    trigger = {
+        has_country_flag = sign_pact
+    }
+	option = {
+		name = no_pact.2.a
+		
+        every_other_country = {
+            limit = {
+                has_country_flag = no_sign_pact
+            }
+            clr_country_flag = no_sign_pact
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = join_faction
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = offer_join_faction
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = non_aggression_pact
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = join_ally
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = send_exp_force
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = call_allies
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_acceptance
+                id = ROOT
+                target = call_allies
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = military_access
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = docking_rights
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = diplo_action_desire
+                id = ROOT
+                target = befriend
+                value = 5000
+            }
+            add_ai_strategy = {
+                type = alliance
+                id = ROOT
+                value = 5000
+            }
+        }
+	}
+}
