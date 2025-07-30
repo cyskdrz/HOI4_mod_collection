@@ -1,0 +1,209 @@
+music_station = "money"
+
+music = {
+	song = "append_briansProperDunOne"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_californiaDreamin"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_crystals"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_dontLookBackinAnger"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_dust"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_hallucination"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_iDontWantToSetTheWorldOnFire"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_imagine"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_iNVISIBLE"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_oohBaby"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_redRockRiviera"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_september"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_theEndoftheWorld"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_theManWhoSoldTheWorld"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_whirlingInRags8AM"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_jahotelbytkosmonavtom"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_jYSYZ"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_yWWHDDJPSZGGGG"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_mNTS"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_mNYM"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+
+music = {
+	song = "append_iLoveYouSo"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_justTheTwoOfUs"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "append_sNNN"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
