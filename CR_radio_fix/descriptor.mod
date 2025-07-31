@@ -1,0 +1,9 @@
+version="1.0"
+tags={
+	"Translation"
+}
+dependencies={
+	"[EN/CN]Celestialreich：天兆之国<beta>"
+}
+name="天兆之国电台汉化"
+supported_version="1.16.*"
