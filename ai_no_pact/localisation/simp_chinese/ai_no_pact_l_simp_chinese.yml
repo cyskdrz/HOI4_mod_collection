@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+ disable_pact:0 "让AI闭嘴"
+ dont_sign_pact:0 "禁言AI"
+ dont_sign_pact_desc:0 "AI不会§R主动§!找人类玩家签互不侵犯协定，不会§R主动§!请求加入战争，但在外交界面进行上述操作，ai依旧会响应。\n\n只会影响当前存在的国家，如果在使用这个决议后，有国家被释放出来，那么它不会受影响。"
+ beg_me:0 "解除禁言"
+ beg_me_desc:0 "禁言AI的反面决议。\n\n§R不要和“禁言AI”在同一天使用。§!"
