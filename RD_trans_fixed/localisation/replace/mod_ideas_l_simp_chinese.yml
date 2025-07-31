@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ generic_production_boost_temporary:0 "聚焦装备生产"
+ generic_production_boost_temporary_desc:0 "[ROOT.GetNameDefCap]通过消耗人力，并让官僚系统超负荷运转，以专注于生产更多的军用装备。"
+ sunni_deity_figure:0 "穆罕默德，真主的使者"
+ shiite_deity_figure:0 "阿里·伊本·阿比-塔里布"
