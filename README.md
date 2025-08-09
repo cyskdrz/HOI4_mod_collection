@@ -29,6 +29,15 @@
 - 修复部分国策文本无法正常显示的bug，修改了部分错误的汉化文本
 <br></br>
 
+## **TFR路线指南补充**
+### Mod使用前提
+<br>使用该Mod需要加载[**烈焰升腾**](https://steamcommunity.com/sharedfiles/filedetails/?id=3350890356)和[**子ModThe Fire Rises - Guide Menu**](https://steamcommunity.com/sharedfiles/filedetails/?id=3495492881)。</br>
+### 内容
+- 修改了**Guide Menu**中的部分汉化文本，并对语序做出了调整
+- 调整了**Guide Menu**中部分专有名词的翻译
+- 修复了**Guide Menu**中部分文本颜色错误显示的BUG
+<br></br>
+
 ## **烈焰升腾汉化修正**
 ### Mod使用前提
 <br>使用该Mod需要加载[**烈焰升腾**](https://steamcommunity.com/sharedfiles/filedetails/?id=3350890356)。</br>
@@ -37,7 +46,7 @@
 - 修改了部分汉化文本
 <br></br>
 
-## AI不会主动加入战争
+## **AI不会主动加入战争**
 ### 简介
 基于Mod **[屏蔽AI互不侵犯](https://steamcommunity.com/sharedfiles/filedetails/?id=2384593330)** 制作，恼人的AI再也不会烦你。
 ### 内容
