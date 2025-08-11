@@ -29,13 +29,15 @@
 - 修复部分国策文本无法正常显示的bug，修改了部分错误的汉化文本
 <br></br>
 
-## **烈焰升腾路线指南补充(TFR路线指南补充)**
+## **烈焰升腾路线指南补充**
 ### Mod使用前提
 <br>使用该Mod需要加载[**烈焰升腾**](https://steamcommunity.com/sharedfiles/filedetails/?id=3350890356)和子Mod[**The Fire Rises - Guide Menu**](https://steamcommunity.com/sharedfiles/filedetails/?id=3495492881)。</br>
 ### 内容
 - 修改了**Guide Menu**中的部分汉化文本，并对语序做出了调整
-- 调整了**Guide Menu**中部分专有名词的翻译
-- 修复了**Guide Menu**中部分文本颜色错误显示的BUG
+- 调整了**Guide Menu**中文版本的部分专有名词的中文本地化翻译
+- 修复了**Guide Menu**中文版本的部分文本颜色错误显示的BUG
+- 修复了**Guide Menu**中文版本的引用文本无法正常显示的BUG
+- 修复了**Guide Menu**中文版本的部分本地化文本被错误引用的BUG
 <br></br>
 
 ## **烈焰升腾汉化修正**
