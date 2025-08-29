@@ -35,11 +35,11 @@
 <br>使用该Mod需要加载[**烈焰升腾**](https://steamcommunity.com/sharedfiles/filedetails/?id=3350890356)和子Mod[**The Fire Rises - Guide Menu**](https://steamcommunity.com/sharedfiles/filedetails/?id=3495492881)。</br>
 ### 内容
 - 修改了**Guide Menu**中的部分汉化文本，并对语序做出了调整
-- 调整了**Guide Menu**中文版本的部分专有名词的中文本地化翻译，现在指南内此类文本的中文翻译将和**烈焰升腾**的翻译保持一致
+- 调整了**Guide Menu**中文版本的部分专有名词的中文本地化翻译，现在指南内此类文本的中文翻译将和**烈焰升腾**的本地化翻译保持一致
 - 修复了**Guide Menu**中文版本的部分文本颜色错误显示的BUG
 - 修复了**Guide Menu**中文版本的引用文本无法正常显示的BUG
 - 修复了**Guide Menu**中文版本的部分文本被错误引用的BUG
-- 修复了**Guide Menu**中文版本内部分路线的文本的翻译错误，现在指南出现的事件、人名和决议会显示为游戏内的对应翻译
+- 修复了**Guide Menu**中文版本内部分文本的错误翻译，现在指南出现的事件、人名和决议会显示为游戏内的对应翻译(指南中伊万卡·特朗普和小特朗普路线的对应选项“usc.75.a1”、“usc.75.a2”在游戏内便缺失翻译)
 <br></br>
 
 ## **烈焰升腾汉化修正**
