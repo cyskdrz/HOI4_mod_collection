@@ -77,9 +77,9 @@
 
  #GER
  die_linke_text: "2021、2025等年份将举行§Y议会选举§!，§Y$BAY_libertarian_socialist_party_short$§!的支持率必须§G高于§!其他§Y所有政党§!，且该党§R未被禁止§!，方可§Y胜选§!。\n\n该党有两位总理候选人: \n\n1. §Y$GER_bodo_ramelow_char$§! - 需要让§Y$BAY_libertarian_socialist_party_short$§!在§Y2021年大选§!中§G获胜§!。\n\n2. §Y$GER_heidi_reichinnek_hog$§! - 需要让§Y$BAY_libertarian_socialist_party_short$§!在§Y2025年及后续选举§!中§G获胜§!。"
- spd_text: "2021、2025等年份将举行§Y议会选举§!，若要让§Y$GER_social_democrat_party$§!的支持率必须§G高于§!其他§Y所有政党§!，且该党§R未被禁止§!，方可§Y胜选§!"
+ spd_text: "2021、2025等年份将举行§Y议会选举§!，若要让§Y$GER_social_democrat_party$§!的支持率必须§G高于§!其他§Y所有政党§!，且该党§R未被禁止§!，方可§Y胜选§!。"
  green_text: "2021、2025等年份将举行§Y议会选举§!，若要让§Y$GER_social_liberal_party_short$§!的支持率必须§G高于§!其他§Y所有政党§!，且该党§R未被禁止§!，方可§Y胜选§!\n\n该党有两位总理候选人: \n\n1. §Y$GER_Habeck$§!\n\n2. §Y$GER_Baerbock$§!\n\n在2021年大选前将触发事件§Y$germany.344.t$§!，可在其中选择对应候选人。"
- fdp_text: "2021、2025等年份将举行§Y议会选举§!，若要让§Y$GER_market_liberal_party$§!的支持率必须§G高于§!其他§Y所有政党§!，且该党§R未被禁止§!，方可§Y胜选§!"
+ fdp_text: "2021、2025等年份将举行§Y议会选举§!，若要让§Y$GER_market_liberal_party$§!的支持率必须§G高于§!其他§Y所有政党§!，且该党§R未被禁止§!，方可§Y胜选§!。"
  cdu_text: "2021、2025等年份将举行§Y议会选举§!，若要让§Y$GER_conservative_party$§!的支持率必须§G高于§!其他§Y所有政党§!，且该党§R未被禁止§!，方可§Y胜选§!\n\n该党有三位总理候选人: \n\n1. §Y$GER_armin_laschet_char$§! - 需该党在2021年大选中获胜。\n\n2. §Y$GER_friedrich_merz_hog$§! 和 3. §Y$BAY_Marcus_Soder$§!\n若要让其中一人成为总理，需要让§Y$GER_conservative_party$§!输掉大选，在事件§Y$germany.345.t$§!中选择§Y对应选项§!。这样在下一次选举中，若§Y$GER_conservative_party$§!§G获胜§!，所选候选人将成为§Y总理§!。"
  afd_text: "2021、2025等年份将举行§Y议会选举§!，若要让§Y$GER_authoritarian_democrat_party$§!的支持率必须§G高于§!其他§Y所有政党§!，且该党§R未被禁止§!，方可§Y胜选§!\n\n该党有两位总理候选人: \n\n1. §Y$GER_alice_weidel_char$§! 和 2. §Y$GER_tino_chrupalla_char$§!\n在§Y2021年大选§!前将触发事件§Y$germany.346.t$§!，需在其中选择§Y对应候选人§!。"
 
@@ -104,7 +104,9 @@
  #FRA
  macron_text: "§Y$FRA_emmanuel_macron_char$§!在游戏开始时是§Y现任总统§!。\n\n让马克龙在§Y2022年大选§!中§G获胜§!，即可他继续§Y担任总统§!。\n\n获胜条件：\n要么支持§Y$FRA_marie_le_pen_char$§!且§R不§!完成国策§Y$FRA_criticize_the_eu$§!；\n要么支持§Y$FRA_emmanuel_macron_char$§!且§G完成§!国策§Y$FRA_support_european_federalization$§!。\n\n\n除§9$centrist$§!外，§Y$FRA_emmanuel_macron_char$§!还有以下可选意识形态：\n\n1. 开局支持§Y$FRA_emmanuel_macron_char$§!，让他在22年大选中获胜，完成国策§Y$FRA_absorb_volt$§!，子意识形态将变为§9$ultra_liberalism$§!\n\n2. 若开局支持§Y$FRA_emmanuel_macron_char$§!，让他在22年大选中获胜，且§Y$FRA_Anti_Police_Protests_final$§!事件发生后执行决议：§Y$FRA_Barricade_Streets$§!、§Y$FRA_Implement_Curfew$§!和§Y$FRA_Declare_Martial_Law$§!，则意识形态将变为§g$authoritarian_democrat_noun$§!，子意识形态变为§L$FRA_authoritarian_liberalism$§!\n\n3. 开局支持§Y$FRA_marie_le_pen_char$§!且§R不§!完成国策§Y$FRA_criticize_the_eu$§!，来让她在22年大选中落败，完成国策§Y$FRA_rabid_anti_liberalism$§!并执行决议§Y$FRA_cross_the_threshold_decision$§!、§Y$FRA_assassinate_hog$§!，则执政党将变为§L$FRA_macron_coalition_long$§!，意识形态变为§B$conservative_noun$§!，子意识形态变为§C$right_centrist$§!。"
  le_pen_text: "要想让§Y$FRA_marie_le_pen_char$§!掌权，必须让她在§Y2022年大选§!中§G胜选§!。\n\n获胜条件：\n要么支持§Y$FRA_emmanuel_macron_char$§!并且§R不要!完成国策§Y$FRA_support_european_federalization$§!；\n要么支持§Y$FRA_marie_le_pen_char$§!且§G完成§!国策§Y$FRA_criticize_the_eu$§!。\n\n\n除§L$FRA_national_souverainism$§!外，§Y$FRA_marie_le_pen_char$§!还有另一种可选子意识形态：\n\n若胜选后完成国策§Y$FRA_prioritize_coalition_stability$§!并执行决议§Y$FRA_Perfect_Moderate_Ideals_decision$§!，执政党将变为§L$FRA_Le_Pen_Party_long$§!，子意识形态变为§C$right_centrist$§!。"
- sejourne_text: "让§Y马克龙§!维持§9$centrist$§!并在§1第一次欧陆战争§!中获胜。"
+ sejourne_text: "让§Y马克龙§!维持§9$centrist$§!，并在§1第一次欧陆战争§!中获胜。"
+ bardella2_text: "让§Y马克龙§!转向§3$conservative_noun$§!，并在§1第一次欧陆战争§!中获胜。"
+ 
  zemmour_text: "满足以下条件：\n\n1. 游戏开局时支持§Y马克龙§!\n\n2. 在事件§Y$france.4.t$§!中选择第二个选项§Y$france.4.b$§!\n\n3. 在事件§Y$france.6.t$§!中选择§Y$france.6.g$§!\n\n4. 执行决议栏§Y$FRA_Military_Demands_category$§!中的所有决议。"
  villiers_text: "满足以下条件：\n\n1. 游戏开局时支持§Y勒庞§!\n\n2. 在事件§Y$france.6.t$§!中选择§Y$france.6.b$§!\n\n3. 在随后出现的事件§Y$france.250.t$§!中选择第一个选项§Y$france.250.a$§!。"
 
@@ -136,7 +138,8 @@
  daeninckx_text: "让§Y$FRA_Jean_Luc_Melenchon_char$§!在§Y2022年选举§!中§G胜选§!（否则将由§Y$FPR_Didier_Daeninckx_char$§!而不是§Y$FRA_Jean_Luc_Melenchon_char$§!担任统治者），在§1第一次欧陆战争§!中被§8日里诺夫斯基领导的俄罗斯§!击败，在§Y内战§!中获胜，并在事件§Y$france.165.t$§!中选择§Y$france.165.e$§!。"
  coupat_text: "在§1第一次欧陆战争§中被§8日里诺夫斯基领导的俄罗斯§!击败，在§Y内战§!中获胜，并在事件§Y$france.165.t$§!中选择§Y$france.165.c$§!。"
  casanova_text: "在§1第一次欧陆战争§!中被§8日里诺夫斯领导的俄罗斯§!击败，在§Y内战§!中获胜，在事件§Y$france.165.t$§!中选择§Y$france.165.c$§!，同时权力平衡必须在§Y$FPR_Socialist_lean_range$§!的范围内，或者进一步向§AAutoritaire§!\n\n最终，在完成国策§Y$FPR_Deploy_the_Red_Guard$§!后，将触发事件§Y$france.1671.t$§!，选择§Y$france.1671.b$§!\n\n\n此外，在完成国策§Y$FPR_Foundation_of_the_FFSR$§!后，将触发事件§Y$france.7002.t$§!，如果选择第二个选项§Y$france.7002.b$§!，则执政党将变更为§R$FPR_cpfu_short$§!，而意识形态将变为§d$neo_stalinism$§!。" 
- bardella2_text: "走§3$conservative_noun$§!§Y马克龙§!线，并在§1第一次欧陆战争§!中获胜。"
+
+
  #USC
  trump_text: "作为§Y特朗普§!进行游戏，在游戏开始时，在事件§Y$usa.126.t$§!中选择第一个选项§Y$usa.126.a$§!。然后，在§R内战§!开始前的事件§Y$usa.105.t$§!中需要选择第一个选项§Y$usa.105.a$§!，之后国家将变更为§Y$USC$§!。\n\n除了§L$USA_trumpist_populism$§!，§Y特朗普§!还有以下几种可选的意识形态。\n\n1.\n如果你走向§Y中央§!分支，完成国策§Y$USC_maintain_the_balance$§!并将权力平衡提高到§Y$USC_military_total_control_range$§!，子意识形态将变更为§L$trumpism_conservative$§!。\n\n2.\n如果你走向§Y左侧§!分支，完成国策§Y$USC_console_the_congress$§!并完成最终国策，执政党将变更为§Y$USC_market_liberal_party_short$§!，意识形态变更为§Y$market_liberal_noun$§!，子意识形态变更为§l$right_libertarianism$§!。\n\n3.\n如果你随后将权力平衡提高到§Y$USC_military_total_control_range$§!，子意识形态将变更为§l$trumpism_market$§!。\n\n4.\n如果你走向§Y右侧§!分支，完成国策§Y$USC_mediate_with_the_military$§!并完成最终国策，执政党将变更为§g$USC_authoritarian_democrat_party_short$§!，意识形态变更为§g$authoritarian_democrat_noun$§!，子意识形态变更为§g$USA_paternal_trumpism$§!。\n\n5.\n如果你随后将权力平衡提高到§Y$USC_military_total_control_range$§!，子意识形态将变更为§g$trumpism_authdem$§!。\n\n6.\n如果你将权力平衡提高到§Y$USC_state_sec_total_control_range$§!，子意识形态将变更为§g$USC_managed_democracy$§!。"
  ivanka_text: "作为§Y特朗普§!进行游戏，走§g$authoritarian_democrat_noun$§!线，并让权力平衡偏向在§5人民§!一侧 ，§R或者§!在§Y$USC_state_sec_total_control_range$§!。\n等到2028年触发事件§Y$usc.75.t$§!，选择§Yusc.75.a1§!。"
